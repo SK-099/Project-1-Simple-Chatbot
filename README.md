@@ -37,3 +37,10 @@ python simple_chatbot.py
 1. The chatbot will greet you with a random greeting.
 2. You can ask the chatbot various questions, and it will respond accordingly.
 3. To end the conversation, type "goodbye," "bye," or "quit," and the chatbot will bid you farewell.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
+
+Happy coding!
